@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18462572-f494-4734-8910-d4e4f61fb31f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1qB9paAQGn6d1IzUr98Nd2RdYow" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SfgDiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guru.springframework.sfgdi.SfgDiApplication" />
+      <module name="sfg-di" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.springframework.sfgdi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SfgDiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18462572-f494-4734-8910-d4e4f61fb31f" name="Default Changelist" comment="" />
+      <created>1616542299535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616542299535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1202" height="287" key="GridCell.Tab.0.bottom" timestamp="1616546071566">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="287" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1616546071566" />
+    <state width="1202" height="287" key="GridCell.Tab.0.center" timestamp="1616546071566">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="287" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1616546071566" />
+    <state width="1202" height="287" key="GridCell.Tab.0.left" timestamp="1616546071566">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="287" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1616546071566" />
+    <state width="1202" height="287" key="GridCell.Tab.0.right" timestamp="1616546071566">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="287" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1616546071566" />
+    <state width="1202" height="265" key="GridCell.Tab.1.bottom" timestamp="1616543421638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="265" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1616543421638" />
+    <state width="1202" height="265" key="GridCell.Tab.1.center" timestamp="1616543421638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="265" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1616543421638" />
+    <state width="1202" height="265" key="GridCell.Tab.1.left" timestamp="1616543421638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="265" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1616543421638" />
+    <state width="1202" height="265" key="GridCell.Tab.1.right" timestamp="1616543421638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="265" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1616543421638" />
+  </component>
+</project>
