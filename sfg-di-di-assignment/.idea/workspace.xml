@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18462572-f494-4734-8910-d4e4f61fb31f" name="Default Changelist" comment="" />
+    <list default="true" id="18462572-f494-4734-8910-d4e4f61fb31f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/spring-framework-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/pets/PetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/config/Greetingserviceconfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/SfgDiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/SfgDiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/controllers/ConstructorInjectedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/controllers/ConstructorInjectedController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/controllers/I18nController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/controllers/I18nController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/controllers/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/controllers/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/controllers/PetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/controllers/PetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/controllers/PropertyInjectedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/controllers/PropertyInjectedController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/controllers/SetterInjectedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/controllers/SetterInjectedController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/services/CatPetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/pets/CatPetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/services/ConstructorGreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/services/ConstructorGreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/services/DogPetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/pets/DogPetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/services/GreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/services/GreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/services/I18NSpanishService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/services/I18NSpanishService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/services/I18nEnglishGreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/services/I18nEnglishGreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/services/PetService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/services/PrimaryGreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/services/PrimaryGreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/services/PropertyInjectedGreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/services/PropertyInjectedGreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgdi/services/SetterInjectedGreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/services/SetterInjectedGreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/springframework/sfgdi/SfgDiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hari/springframework/sfgdi/SfgDiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/springframework/sfgdi/controllers/ConstructorInjectedControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hari/springframework/sfgdi/controllers/ConstructorInjectedControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/springframework/sfgdi/controllers/PropertyInjectedControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hari/springframework/sfgdi/controllers/PropertyInjectedControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/springframework/sfgdi/controllers/SetterInjectedControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hari/springframework/sfgdi/controllers/SetterInjectedControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/SfgDiApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/controllers/ConstructorInjectedController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/controllers/I18nController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/controllers/MyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/controllers/PetController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/controllers/PropertyInjectedController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/controllers/SetterInjectedController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/services/CatPetService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/services/ConstructorGreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/services/DogPetService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/services/GreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/services/I18NSpanishService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/services/I18nEnglishGreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/services/PetService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/services/PrimaryGreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/services/PropertyInjectedGreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/sfgdi/services/SetterInjectedGreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/guru/springframework/sfgdi/SfgDiApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/guru/springframework/sfgdi/controllers/ConstructorInjectedControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/guru/springframework/sfgdi/controllers/PropertyInjectedControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/guru/springframework/sfgdi/controllers/SetterInjectedControllerTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,13 +59,26 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1qB9paAQGn6d1IzUr98Nd2RdYow" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -25,11 +87,11 @@
   </component>
   <component name="RunManager">
     <configuration name="SfgDiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="guru.springframework.sfgdi.SfgDiApplication" />
+      <option name="MAIN_CLASS_NAME" value="hari.springframework.sfgdi.SfgDiApplication" />
       <module name="sfg-di" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="guru.springframework.sfgdi.*" />
+          <option name="PATTERN" value="hari.springframework.sfgdi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,22 +119,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1202" height="287" key="GridCell.Tab.0.bottom" timestamp="1616546071566">
+    <state x="462" y="256" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1617120565150">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="287" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1616546071566" />
-    <state width="1202" height="287" key="GridCell.Tab.0.center" timestamp="1616546071566">
+    <state x="462" y="256" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1617120565150" />
+    <state width="1202" height="237" key="GridCell.Tab.0.bottom" timestamp="1617122082605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="287" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1616546071566" />
-    <state width="1202" height="287" key="GridCell.Tab.0.left" timestamp="1616546071566">
+    <state width="1202" height="237" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617122082605" />
+    <state width="1202" height="237" key="GridCell.Tab.0.center" timestamp="1617122082605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="287" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1616546071566" />
-    <state width="1202" height="287" key="GridCell.Tab.0.right" timestamp="1616546071566">
+    <state width="1202" height="237" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617122082605" />
+    <state width="1202" height="237" key="GridCell.Tab.0.left" timestamp="1617122082605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="287" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1616546071566" />
+    <state width="1202" height="237" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617122082605" />
+    <state width="1202" height="237" key="GridCell.Tab.0.right" timestamp="1617122082605">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="237" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617122082605" />
     <state width="1202" height="265" key="GridCell.Tab.1.bottom" timestamp="1616543421638">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
