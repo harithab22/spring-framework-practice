@@ -1,5 +1,7 @@
 package hari.springframework.sfgdi.config;
 
+import hari.springframework.pets.PetService;
+import hari.springframework.pets.Petservicefactory;
 import hari.springframework.repositories.EnglishGreetingRepository;
 import hari.springframework.repositories.EnglishGreetingRepositoryImpl;
 import hari.springframework.sfgdi.services.*;
@@ -11,6 +13,22 @@ import org.springframework.context.annotation.Profile;
 @Configuration
 
 public class Greetingserviceconfig {
+
+    @Bean
+    Petservicefactory petservicefactory(){
+        return new Petservicefactory();
+    }
+    @Bean
+    @Profile({"dog", "default"})
+    PetService dogPetService(Petservicefactory petservicefactory){
+        return petservicefactory.getPetService("dog");
+    }
+    @Profile("cat")
+    @Bean
+    PetService catPetService(Petservicefactory petservicefactory){
+        return petservicefactory.getPetService("cat");
+
+    }
 
     @Bean
     EnglishGreetingRepository englishGreetingRepository(){
