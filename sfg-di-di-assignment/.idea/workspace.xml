@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18462572-f494-4734-8910-d4e4f61fb31f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/datasource/Dummydatasource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/datasource.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/SfgDiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/SfgDiApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/config/Greetingserviceconfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hari/springframework/sfgdi/config/Greetingserviceconfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hari/springframework/sfgdi/SfgDiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hari/springframework/sfgdi/SfgDiApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/hari/springframework/sfgdi/config/Greetingserviceconfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hari/springframework/sfgdi/config/Greetingserviceconfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,12 +50,8 @@
   </component>
   <component name="RunManager">
     <configuration name="SfgDiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <envs>
-        <env name="HARI_USERNAME" value="usernamefromEnvvariable" />
-      </envs>
       <option name="MAIN_CLASS_NAME" value="hari.springframework.sfgdi.SfgDiApplication" />
       <module name="sfg-di" />
-      <option name="PROGRAM_PARAMETERS" value="--hari.password=passwordfromcommandline" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hari.springframework.sfgdi.*" />
@@ -88,10 +82,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617651008372">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617651931835">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1617651008372" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1617651931835" />
     <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1617649242564">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -100,26 +94,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="462" y="256" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1617120565150" />
-    <state x="375" y="102" key="EnvironmentVariablesDialog" timestamp="1617650930534">
+    <state x="375" y="102" key="EnvironmentVariablesDialog" timestamp="1617651928725">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="375" y="102" key="EnvironmentVariablesDialog/0.0.1280.680@0.0.1280.680" timestamp="1617650930534" />
-    <state width="1202" height="192" key="GridCell.Tab.0.bottom" timestamp="1617651010637">
+    <state x="375" y="102" key="EnvironmentVariablesDialog/0.0.1280.680@0.0.1280.680" timestamp="1617651928725" />
+    <state width="1202" height="192" key="GridCell.Tab.0.bottom" timestamp="1617651936092">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="192" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617651010637" />
-    <state width="1202" height="192" key="GridCell.Tab.0.center" timestamp="1617651010636">
+    <state width="1202" height="192" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617651936092" />
+    <state width="1202" height="192" key="GridCell.Tab.0.center" timestamp="1617651936092">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="192" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617651010636" />
-    <state width="1202" height="192" key="GridCell.Tab.0.left" timestamp="1617651010636">
+    <state width="1202" height="192" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617651936092" />
+    <state width="1202" height="192" key="GridCell.Tab.0.left" timestamp="1617651936092">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="192" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617651010636" />
-    <state width="1202" height="192" key="GridCell.Tab.0.right" timestamp="1617651010637">
+    <state width="1202" height="192" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617651936092" />
+    <state width="1202" height="192" key="GridCell.Tab.0.right" timestamp="1617651936092">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="192" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617651010637" />
+    <state width="1202" height="192" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617651936092" />
     <state width="1202" height="265" key="GridCell.Tab.1.bottom" timestamp="1616543421638">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
