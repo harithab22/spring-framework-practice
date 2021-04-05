@@ -1,5 +1,6 @@
 package hari.springframework.sfgdi;
 
+import hari.springframework.datasource.Dummydatasource;
 import hari.springframework.sfgdi.controllers.*;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -36,6 +37,13 @@ public class SfgDiApplication {
 		System.out.println("-------- Constructor" );
 		ConstructorInjectedController constructorInjectedController = (ConstructorInjectedController) ctx.getBean("constructorInjectedController");
 		System.out.println(constructorInjectedController.getGreeting());
+
+		System.out.println("----------------external properties example");
+
+		Dummydatasource dummydatasource= (Dummydatasource)ctx.getBean("dummydatasource");
+		System.out.println(dummydatasource.getUsername());
+		System.out.println(dummydatasource.getPassword());
+		System.out.println(dummydatasource.getSomeurl());
 	}
 
 }

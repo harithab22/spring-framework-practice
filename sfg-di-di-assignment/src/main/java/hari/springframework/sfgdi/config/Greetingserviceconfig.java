@@ -1,18 +1,29 @@
 package hari.springframework.sfgdi.config;
 
+import hari.springframework.datasource.Dummydatasource;
 import hari.springframework.pets.PetService;
 import hari.springframework.pets.Petservicefactory;
 import hari.springframework.repositories.EnglishGreetingRepository;
 import hari.springframework.repositories.EnglishGreetingRepositoryImpl;
 import hari.springframework.sfgdi.services.*;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Primary;
-import org.springframework.context.annotation.Profile;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.*;
 
+@PropertySource("classpath:datasource.properties")
 @Configuration
 
 public class Greetingserviceconfig {
+
+    @Bean
+    Dummydatasource dummydatasource(@Value("${hari.username}") String username,
+                                    @Value("${hari.password}") String password,
+                                    @Value("${hari.someurl}") String someurl){
+        Dummydatasource dummydatasource=new Dummydatasource();
+        dummydatasource.setUsername(username);
+        dummydatasource.setPassword(password);
+        dummydatasource.setSomeurl(someurl);
+        return dummydatasource;
+    }
 
     @Bean
     Petservicefactory petservicefactory(){
