@@ -3,9 +3,14 @@ package com.sf.springframeworkpetclinic.model;
 import java.time.LocalDate;
 
 public class pet extends BaseEntity {
+    private String name;
     private pettype petType;
     private Owner owner;
     private LocalDate dateofbirth;
+
+    public String getName() {
+        return name;
+    }
 
     public pettype getPetType() {
         return petType;
