@@ -11,6 +11,7 @@ public class Notes {
 
     @Lob
     private String recipeNotes;
+    @OneToOne
     private Recipe recipe;
 
     public String getRecipeNotes() {

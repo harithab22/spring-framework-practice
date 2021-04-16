@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18462572-f494-4734-8910-d4e4f61fb31f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Notes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Recipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/unitofmeasure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Difficulty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Recipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Recipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/unitofmeasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/unitofmeasure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

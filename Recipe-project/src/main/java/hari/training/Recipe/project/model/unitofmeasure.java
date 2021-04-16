@@ -11,18 +11,13 @@ public class unitofmeasure {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    private String description;
 
-    private Ingredient ingredient;
-
-
-
-    public Ingredient getIngredient() {
-        return ingredient;
+    public String getDescription() {
+        return description;
     }
 
-    public void setIngredient(Ingredient ingredient) {
-        this.ingredient = ingredient;
+    public void setDescription(String description) {
+        this.description = description;
     }
-
-
 }
