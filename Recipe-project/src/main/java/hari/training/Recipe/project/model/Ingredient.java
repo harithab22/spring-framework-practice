@@ -11,11 +11,21 @@ public class Ingredient {
     private String description;
     private BigDecimal amount;
 
+    @OneToOne(fetch = FetchType.EAGER)
+    private unitofmeasure unitofmeasure;
+
     @ManyToOne
     private Recipe recipe;
 
-    @OneToOne(fetch = FetchType.EAGER)
-    private unitofmeasure unitofmeasure;
+    public Ingredient() {
+    }
+
+    public Ingredient(String description, BigDecimal amount, hari.training.Recipe.project.model.unitofmeasure unitofmeasure, Recipe recipe) {
+        this.description = description;
+        this.amount = amount;
+        this.unitofmeasure = unitofmeasure;
+        this.recipe = recipe;
+    }
 
     public BigDecimal getAmount() {
         return amount;

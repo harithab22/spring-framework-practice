@@ -4,8 +4,14 @@
     <meta charset="UTF-8">
     <title>Recipe App</title>
 </head>
-<body>
-<h1 >Index page-kkfvfvkbsf</h1>
-
-</body>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Description</th>
+    </tr>
+    <tr th:each="recipe : ${recipes}">
+        <td th:text="${recipe.id}">123</td>
+        <td th:text="${recipe.description}">Tasty Goodnees</td>
+    </tr>
+</table>
 </html>
