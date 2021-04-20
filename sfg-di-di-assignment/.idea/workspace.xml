@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18462572-f494-4734-8910-d4e4f61fb31f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Repositories/RecipeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Repositories/categoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Repositories/uniofmeasureRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Repositories/RecipeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Repositories/RecipeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Repositories/categoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Repositories/categoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Repositories/uniofmeasureRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Repositories/uniofmeasureRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/unitofmeasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/unitofmeasure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
