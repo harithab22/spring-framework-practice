@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18462572-f494-4734-8910-d4e4f61fb31f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/bootstrap/recipebootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/services/RecipeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/services/RecipeServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Repositories/uniofmeasureRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/Repositories/unitofmeasureRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Ingredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Ingredient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Recipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/java/hari/training/Recipe/project/model/Recipe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recipe-project/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Recipe-project/src/main/resources/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/Speciality.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/Speciality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/pettype.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/pettype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/vet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springframework-pet-clinic/src/main/java/com/sf/springframeworkpetclinic/model/vet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
